@@ -1,4 +1,4 @@
-
+Enhance CleanMyMac X for macOS with CleanMyMac X for macOS premium Module: scripting-support & file-indexing, the #1 module. Includes scripting-support and file-indexing for a
 
 
 
